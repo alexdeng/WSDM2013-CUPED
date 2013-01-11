@@ -1,0 +1,150 @@
+\begin{thebibliography}{22}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Asmussen and Glynn(2008)]{stosim}
+Soren Asmussen and Peter Glynn.
+\newblock \emph{Stochastic Simulation}.
+\newblock Springer-Verlag, 2008.
+
+\bibitem[Box et~al.(2005)Box, Hunter, and Hunter]{Box}
+George E.~P. Box, J.~Stuart Hunter, and William~G. Hunter.
+\newblock \emph{Statistics for experimenters: design, innovation, and
+  discovery}.
+\newblock Wiley, 2005.
+
+\bibitem[Chapelle et~al.(2012)Chapelle, Joachims, Radlinski, and Yue]{Chapelle}
+Olivier Chapelle, Thorsten Joachims, Filip Radlinski, and Yisong Yue.
+\newblock Large-scale validation and analysis of interleaved search evaluation.
+\newblock \emph{ACM Trans. Inf. Syst.}, 30\penalty0 (1):\penalty0 6:1--6:41,
+  March 2012.
+\newblock ISSN 1046-8188.
+
+\bibitem[comScore(2012)]{comScore}
+comScore.
+\newblock comscore releases june 2012 u.s. search engine rankings, June 2012.
+\newblock
+  \url{http://www.comscore.com/Press_Events/Press_Releases/2012/6/comScore_Rel%
+eases_June_2012_U.S._Search_Engine_Rankings}.
+
+\bibitem[Davidian et~al.(2005)Davidian, Tsiatis, and Leon]{semiparamissing}
+M.~Davidian, A.A. Tsiatis, and S.~Leon.
+\newblock Semiparametric estimation of treatment effect in a pretest-posttest
+  study with missing data.
+\newblock \emph{Statistical Science}, 20, 2005.
+
+\bibitem[Deng et~al.(2011)Deng, Longbotham, Walker, and Xu]{choiceofexp}
+Shaojie Deng, Roger Longbotham, Toby Walker, and Ya~Xu.
+\newblock Choice of the randomization unit in online controlled experiment.
+\newblock \emph{JSM proceedings}, 2011.
+
+\bibitem[Gelman and Hill(2006)]{dagelman}
+Andrew Gelman and Jennifer Hill.
+\newblock \emph{Data analysis using regression and multilevel/hierarchical
+  models}.
+\newblock Cambridge University Press, 2006.
+
+\bibitem[Keppel et~al.(1992)Keppel, Saufley, and Tokunaga]{Keppel}
+Geoffrey Keppel, William~H. Saufley, and Howard Tokunaga.
+\newblock \emph{Introduction to design and analysis: A Student's Handbook}.
+\newblock Worth Publishers, 1992.
+
+\bibitem[Kohavi et~al.(2009{\natexlab{a}})Kohavi, Crook, and
+  Longbotham]{expAtMicrosoft}
+Ron Kohavi, Thomas Crook, and Roger Longbotham.
+\newblock Online experimentation at {M}icrosoft.
+\newblock \emph{Third Workshop on Data Mining Case Studies and Practice
+  Prize.}, 2009{\natexlab{a}}.
+\newblock \url{http://www.exp-platform.com/Pages/expMicrosoft.aspx}.
+
+\bibitem[Kohavi et~al.(2009{\natexlab{b}})Kohavi, Longbotham, Sommerfield, and
+  Henne]{expsurvey}
+Ron Kohavi, Roger Longbotham, Dan Sommerfield, and Randal~M. Henne.
+\newblock Controlled experiments on the web: survey and practical guide.
+\newblock \emph{Data Mining Knowledge Discovery}, 18:\penalty0 140--181,
+  2009{\natexlab{b}}.
+\newblock \url{http://www.exp-platform.com/Pages/hippo_long.aspx}.
+
+\bibitem[Kohavi et~al.(2012)Kohavi, Deng, Frasca, Longbotham, Walker, and
+  Xu]{puzzlingOutcomes}
+Ron Kohavi, Alex Deng, Brian Frasca, Roger Longbotham, Toby Walker, and Ya~Xu.
+\newblock Trustworthy online controlled experiments: Five puzzling outcomes
+  explained.
+\newblock \emph{Proceedings of the 18th Conference on Knowledge Discovery and
+  Data Mining}, 2012.
+\newblock
+  \url{http://www.exp-platform.com/Pages/PuzzingOutcomesExplained.aspx}.
+
+\bibitem[Leon et~al.(2003)Leon, Tsiatis, and Davidian]{semiparapretest}
+S.~Leon, A.A. Tsiatis, and M.~Davidian.
+\newblock Semiparametric estimation of treatment effect in a pretest-posttest
+  study.
+\newblock \emph{Biometrika}, 59, 2003.
+
+\bibitem[Manzi(2012)]{Manzi}
+Jim Manzi.
+\newblock \emph{Uncontrolled: The Surprising Payoff of Trial-and-Error for
+  Business, Politics, and Society}.
+\newblock Basic Books, 2012.
+
+\bibitem[Mason et~al.(1989)Mason, Gunst, and Hess]{Mason}
+Robert~L. Mason, Richard~F. Gunst, and James~L. Hess.
+\newblock \emph{Statistical design and analysis of experiments with
+  applications to engineering and science}.
+\newblock Wiley, 1989.
+
+\bibitem[Student(1908)]{studentt}
+Student.
+\newblock The probable error of a mean.
+\newblock \emph{Biometrika}, 6:\penalty0 1--25, 1908.
+
+\bibitem[Tang et~al.(2010{\natexlab{a}})Tang, Agarwal, O'Brien, and
+  Meyer]{googleslide}
+Diane Tang, Ashish Agarwal, Deirdre O'Brien, and Mike Meyer.
+\newblock Overlapping experiment infrastructure: More, better, faster
+  experimentation (presentation).
+\newblock 2010{\natexlab{a}}.
+\newblock URL
+  \url{http://research.google.com/archive/papers/Overlapping_Experiment_Infras%
+tructure_More_Be.pdf}.
+
+\bibitem[Tang et~al.(2010{\natexlab{b}})Tang, Agarwal, O'Brien, and
+  Meyer]{googlesurvey}
+Diane Tang, Ashish Agarwal, Deirdre O'Brien, and Mike Meyer.
+\newblock Overlapping experiment infrastructure: More, better, faster
+  experimentation.
+\newblock \emph{Proceedings of the 16th Conference on Knowledge Discovery and
+  Data Mining}, 2010{\natexlab{b}}.
+
+\bibitem[Tsiatis(2006)]{semipara}
+Anastasios Tsiatis.
+\newblock \emph{Semiparametric Theory and Missing Data}.
+\newblock Springer-Verlag, 2006.
+
+\bibitem[Tsiatis et~al.(2008)Tsiatis, Davidian, Zhang, and
+  Lu]{tsiatiscovariateadj}
+Anastasios~A. Tsiatis, Marie Davidian, Min Zhang, and Xiaomin Lu.
+\newblock Covariate adjustment for two-sample treatment comparisons in
+  randomized clinical trials: A principled yet flexible approach.
+\newblock \emph{Statistics in Medicine}, 27, 2008.
+
+\bibitem[Wasserman(2003)]{allofstat}
+Larry Wasserman.
+\newblock \emph{All of Statistics: A Concise Course in Statistical Inference}.
+\newblock Springer, 2003.
+
+\bibitem[Wikipedia()]{wikipediaABTest}
+Wikipedia.
+\newblock A/b testing.
+\newblock \url{http://en.wikipedia.org/wiki/A/B_testing}.
+
+\bibitem[Yang and Tsiatis(2001)]{yangtsiatis}
+Li~Yang and Anastasios~A. Tsiatis.
+\newblock Efficiency study of estimators for a treatment effect in a
+  pretest-posttest trial.
+\newblock \emph{The American Statistician}, 55, 2001.
+
+\end{thebibliography}

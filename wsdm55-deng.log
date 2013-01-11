@@ -1,0 +1,383 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=latex 2010.8.2)  7 DEC 2012 21:46
+entering extended mode
+**wsdm55-deng.tex
+(C:\Users\yaxu\Desktop\varianceReductionCameraReady\wsdm55-deng.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, german, ngerman, german-x-2009-06-19, ngerm
+an-x-2009-06-19, french, loaded.
+(C:\Users\yaxu\Desktop\varianceReductionCameraReady\sig-alternate.cls
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\epsfig.sty"
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\graphics.sty"
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 90.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\dvips.def"
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+\epsfxsize=\dimen104
+\epsfysize=\dimen105
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip41
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen106
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen107
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count79
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count80
+\leftroot@=\count81
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count82
+\DOTSCASE@=\count83
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count84
+\c@MaxMatrixCols=\count85
+\dotsspace@=\muskip10
+\c@parentequation=\count86
+\dspbrk@lvl=\count87
+\tag@help=\toks17
+\row@=\count88
+\column@=\count89
+\maxfields@=\count90
+\andhelp@=\toks18
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks19
+\multlinegap=\skip42
+\multlinetaggap=\skip43
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+Document Class 'sig-alternate' <23rd. May '12>. Modified by G.K.M. Tobin/Gerry Murray
+Based in part upon document Style `acmconf' <22 May 89>. Hacked 4/91 by
+shivers@cs.cmu.edu, 4/93 by theobald@cs.mcgill.ca
+Excerpts were taken from (Journal Style) 'esub2acm.cls'.
+****** Bugs/comments/suggestions/technicalities to Gerry Murray -- murray@hq.acm.org ******
+Questions on the style, SIGS policies, etc. to Adrienne Griscti griscti@acm.org
+\footheight=\dimen115
+\@maxsep=\dimen116
+\@dblmaxsep=\dimen117
+\aucount=\count91
+\originalaucount=\count92
+\auwidth=\dimen118
+\auskip=\dimen119
+\auskipcount=\count93
+\auskip=\dimen120
+\allauboxes=\dimen121
+\addauthors=\toks21
+\addauflag=\count94
+\subtitletext=\toks22
+\savesection=\count95
+\sectioncntr=\count96
+\c@figure=\count97
+\c@table=\count98
+\titleboxnotes=\toks23
+\titleboxnoteflag=\count99
+Document Class: sig-alternate 2012/05/23 - V2.5 - based on acmproc.cls V1.3 <Nov. 30 '99>
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\latexsym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+\@acmtitlebox=\box28
+\titlenotecount=\count100
+\tntoks=\toks24
+\tntokstwo=\toks25
+\tntoksthree=\toks26
+\tntoksfour=\toks27
+\tntoksfive=\toks28
+\catcount=\count101
+\copyrightnotice=\toks29
+\conf=\toks30
+\confinfo=\toks31
+\c@part=\count102
+\c@section=\count103
+\c@subsection=\count104
+\c@subsubsection=\count105
+\c@paragraph=\count106
+
+Using 'Abbrev' bibliography style
+LaTeX Info: Redefining \cite on input line 1211.
+\bibindent=\dimen122
+\colcntr=\count107
+\saveb@x=\box29
+\copyrtyr=\toks32
+\acmcopyr=\toks33
+\boilerplate=\toks34
+\copyrightetc=\toks35
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)
+LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
+ ("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ae\t1aer.fd"
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+))) ("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\natbib\natbib.sty"
+Package: natbib 2009/07/16 8.31 (PWD, AO)
+\bibhang=\skip44
+\bibsep=\skip45
+LaTeX Info: Redefining \cite on input line 694.
+LaTeX Info: Redefining \citeyear on input line 735.
+\c@NAT@ctr=\count108
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(C:\Users\yaxu\Desktop\varianceReductionCameraReady\mymacros.sty
+\c@thm=\count109
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\paralist\paralist.sty"
+Package: paralist 2002/03/18 v2.3b Extended list environments (BS)
+\pltopsep=\skip46
+\plpartopsep=\skip47
+\plitemsep=\skip48
+\plparsep=\skip49
+\pl@lab=\toks36
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 130.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\dvipsnam.def"
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+(C:\Users\yaxu\Desktop\varianceReductionCameraReady\wsdm55-deng.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Try loading font information for U+msa on input line 61.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 61.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 61.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for T1+aett on input line 84.
+ ("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ae\t1aett.fd"
+File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
+)
+File: ./plot/msn.eps Graphic file (type eps)
+ <./plot/msn.eps>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 87--88
+ [][][] 
+ []
+
+[1
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 141.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 141.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 141.
+ [3] [4]
+Overfull \hbox (2.40099pt too wide) in paragraph at lines 293--294
+\T1/aer/m/n/9 mines the ef-fec-tive-ness of vari-ance re-duc-tion. With the choice
+ []
+
+
+Overfull \hbox (3.31929pt too wide) in paragraph at lines 301--302
+[][]\T1/aer/m/n/9 So far we only con-sid-ered re-duc-ing met-rics vari-abil-ity based
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 314--319
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--319
+
+ []
+
+File: ./plot/pfdelayPCRhalftime.eps Graphic file (type eps)
+<./plot/pfdelayPCRhalftime.eps>
+File: ./plot/pfdelayPCRhalfuser.eps Graphic file (type eps)
+ <./plot/pfdelayPCRhalfuser.eps>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 322--324
+ [][][] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 322--324
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+File: ./plot/queriesPerUUVarRed.eps Graphic file (type eps)
+ <./plot/queriesPerUUVarRed.eps>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 366--367
+ [][][] 
+ []
+
+File: ./plot/queriesPerUUVarRedPeriod.eps Graphic file (type eps)
+<./plot/queriesPerUUVarRedPeriod.eps>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 378--379
+ [][][] 
+ []
+
+
+Overfull \hbox (3.93867pt too wide) in paragraph at lines 385--386
+\T1/aer/m/n/9 du-ra-tion, the cor-re-la-tion in-creases for ``cu-mu-la-tive'' met-
+ []
+
+File: ./plot/pcr.eps Graphic file (type eps)
+<./plot/pcr.eps>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 398--399
+ [][][] 
+ []
+
+File: ./plot/correlation.eps Graphic file (type eps)
+<./plot/correlation.eps>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 404--405
+ [][][] 
+ []
+
+[7]
+File: ./plot/queriesPerUUDeltaWrongAB.eps Graphic file (type eps)
+ <./plot/queriesPerUUDeltaWrongAB.eps>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 445--446
+ [][][] 
+ []
+
+
+Overfull \hbox (2.58112pt too wide) in paragraph at lines 455--456
+\T1/aer/m/n/9 cur-rently live in Bing's on-line ex-per-i-men-ta-tion sys-tem. Three
+ []
+
+[8] (C:\Users\yaxu\Desktop\varianceReductionCameraReady\wsdm55-deng.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 27--32
+\T1/aett/m/n/9 Events / Press _ Releases / 2012 / 6 / comScore _ Releases _
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 57--62
+[][]\T1/aer/m/n/9 Ron Ko-havi, Thomas Crook, and Roger Long-botham.
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 57--62
+\T1/aer/m/n/9 On-line ex-per-i-men-ta-tion at Mi-crosoft.  \T1/aer/m/it/9 Third Work-
+ []
+
+
+Underfull \hbox (badness 4995) in paragraph at lines 57--62
+\T1/aer/m/it/9 shop on Data Min-ing Case Stud-ies and Prac-tice
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--113
+\T1/aer/m/n/9 URL $\T1/aett/m/n/9 http : / / research . google . com / archive / papers /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--113
+\T1/aett/m/n/9 Overlapping _ Experiment _ Infrastructure _ More _ Be .
+ []
+
+) [9]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+(C:\Users\yaxu\Desktop\varianceReductionCameraReady\wsdm55-deng.aux) ) 
+Here is how much of TeX's memory you used:
+ 2775 strings out of 495286
+ 33467 string characters out of 3179905
+ 93697 words of memory out of 3000000
+ 5920 multiletter control sequences out of 15000+200000
+ 44401 words of font info for 62 fonts, out of 3000000 for 9000
+ 15 hyphenation exceptions out of 8191
+ 39i,14n,26p,2201b,291s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on wsdm55-deng.dvi (10 pages, 98912 bytes).
